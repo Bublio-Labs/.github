@@ -2,9 +2,13 @@
   <rect width="1280" height="300" rx="32" fill="#e3f64b" />
 
   <g font-family="Sora, 'Helvetica Neue', Arial, sans-serif" fill="#3b2a3f">
-    <text x="72" y="140" font-size="64" font-weight="700" letter-spacing="-3">Have something to build?</text>
-    <text x="74" y="196" font-size="26" font-weight="300">Tell us what you have in mind. info@bubliolabs.tech</text>
+    <text x="72" y="118" font-size="64" font-weight="700" letter-spacing="-3">Have something to build?</text>
+    <text x="74" y="166" font-size="26" font-weight="300">Tell us what you have in mind.</text>
   </g>
+
+  <!-- The email as a plum pill, like the website's primary buttons -->
+  <rect x="72" y="196" width="400" height="60" rx="30" fill="#3b2a3f" />
+  <text x="272" y="235" text-anchor="middle" font-family="Sora, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#e3f64b">info@bubliolabs.tech</text>
 
   <!-- The Bublio mark in plum, as on the website's closing band -->
   <g transform="translate(1010 40) scale(1.08)">
