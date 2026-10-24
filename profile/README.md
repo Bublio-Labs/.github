@@ -46,14 +46,35 @@ Quezon City, Philippines.
 
 ## Tools we use
 
-**Web and backend**
+**Web**
 
 <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-3b2a3f?style=for-the-badge&logo=html5&logoColor=e3f64b" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-3b2a3f?style=for-the-badge&logo=css&logoColor=e3f64b" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3b2a3f?style=for-the-badge&logo=javascript&logoColor=e3f64b" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3b2a3f?style=for-the-badge&logo=typescript&logoColor=e3f64b" />
   <img alt="React" src="https://img.shields.io/badge/React-3b2a3f?style=for-the-badge&logo=react&logoColor=e3f64b" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-3b2a3f?style=for-the-badge&logo=nextdotjs&logoColor=e3f64b" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3b2a3f?style=for-the-badge&logo=typescript&logoColor=e3f64b" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3b2a3f?style=for-the-badge&logo=vuedotjs&logoColor=e3f64b" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-3b2a3f?style=for-the-badge&logo=nuxt&logoColor=e3f64b" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-3b2a3f?style=for-the-badge&logo=angular&logoColor=e3f64b" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-3b2a3f?style=for-the-badge&logo=svelte&logoColor=e3f64b" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-3b2a3f?style=for-the-badge&logo=vite&logoColor=e3f64b" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-3b2a3f?style=for-the-badge&logo=tailwindcss&logoColor=e3f64b" />
+</p>
+
+**Backend**
+
+<p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3b2a3f?style=for-the-badge&logo=nodedotjs&logoColor=e3f64b" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-3b2a3f?style=for-the-badge&logo=express&logoColor=e3f64b" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-3b2a3f?style=for-the-badge&logo=nestjs&logoColor=e3f64b" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3b2a3f?style=for-the-badge&logo=python&logoColor=e3f64b" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-3b2a3f?style=for-the-badge&logo=django&logoColor=e3f64b" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-3b2a3f?style=for-the-badge&logo=fastapi&logoColor=e3f64b" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-3b2a3f?style=for-the-badge&logo=php&logoColor=e3f64b" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-3b2a3f?style=for-the-badge&logo=laravel&logoColor=e3f64b" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-3b2a3f?style=for-the-badge&logo=graphql&logoColor=e3f64b" />
 </p>
 
 **Mobile**
@@ -66,15 +87,24 @@ Quezon City, Philippines.
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3b2a3f?style=for-the-badge&logo=androidstudio&logoColor=e3f64b" />
 </p>
 
-**Cloud and data**
+**Databases**
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3b2a3f?style=for-the-badge&logo=postgresql&logoColor=e3f64b" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3b2a3f?style=for-the-badge&logo=mysql&logoColor=e3f64b" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3b2a3f?style=for-the-badge&logo=mongodb&logoColor=e3f64b" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-3b2a3f?style=for-the-badge&logo=redis&logoColor=e3f64b" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3b2a3f?style=for-the-badge&logo=prisma&logoColor=e3f64b" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3b2a3f?style=for-the-badge&logo=supabase&logoColor=e3f64b" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-3b2a3f?style=for-the-badge&logo=firebase&logoColor=e3f64b" />
+</p>
+
+**Cloud and hosting**
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-3b2a3f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2UzZjY0YiIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS40Mi04Ljk4QTYgNiAwIDAgMSAxNy42IDguNSA1IDUgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-3b2a3f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2UzZjY0YiIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS40Mi04Ljk4QTYgNiAwIDAgMSAxNy42IDguNSA1IDUgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-3b2a3f?style=for-the-badge&logo=googlecloud&logoColor=e3f64b" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-3b2a3f?style=for-the-badge&logo=firebase&logoColor=e3f64b" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3b2a3f?style=for-the-badge&logo=supabase&logoColor=e3f64b" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3b2a3f?style=for-the-badge&logo=postgresql&logoColor=e3f64b" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-3b2a3f?style=for-the-badge&logo=vercel&logoColor=e3f64b" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-3b2a3f?style=for-the-badge&logo=docker&logoColor=e3f64b" />
 </p>
