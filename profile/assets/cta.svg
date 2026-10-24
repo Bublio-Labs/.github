@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Have something to build? Tell us what you have in mind.">
+  <rect width="1280" height="300" rx="32" fill="#e3f64b" />
+
+  <g font-family="Sora, 'Helvetica Neue', Arial, sans-serif" fill="#3b2a3f">
+    <text x="72" y="140" font-size="64" font-weight="700" letter-spacing="-3">Have something to build?</text>
+    <text x="74" y="196" font-size="26" font-weight="300">Tell us what you have in mind. info@bubliolabs.tech</text>
+  </g>
+
+  <!-- The Bublio mark in plum, as on the website's closing band -->
+  <g transform="translate(1010 40) scale(1.08)">
+    <rect x="34" y="14" width="40" height="160" rx="20" fill="#3b2a3f" />
+    <circle cx="118" cy="116" r="60" fill="#3b2a3f" />
+    <path d="M146 152 L186 192 L122 174 Z" fill="#3b2a3f" stroke="#3b2a3f" stroke-width="8" stroke-linejoin="round" />
+    <path d="M100 96 L84 116 L100 136" fill="none" stroke="#e3f64b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M125 92 L113 140" fill="none" stroke="#e3f64b" stroke-width="10" stroke-linecap="round" />
+    <path d="M138 96 L154 116 L138 136" fill="none" stroke="#e3f64b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Bublio Labs. Built to be used.">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.6" fill="#4e3c53" />
+    </pattern>
+    <clipPath id="card">
+      <rect width="1280" height="420" rx="32" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="420" fill="#3b2a3f" />
+    <rect width="1280" height="420" fill="url(#dots)" />
+
+    <!-- The Bublio mark, as in app/components/Brand.tsx -->
+    <g transform="translate(92 106)">
+      <rect x="34" y="14" width="40" height="160" rx="20" fill="#e3f64b" />
+      <circle cx="118" cy="116" r="60" fill="#e3f64b" />
+      <path d="M146 152 L186 192 L122 174 Z" fill="#e3f64b" stroke="#e3f64b" stroke-width="8" stroke-linejoin="round" />
+      <path d="M100 96 L84 116 L100 136" fill="none" stroke="#3b2a3f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M125 92 L113 140" fill="none" stroke="#3b2a3f" stroke-width="10" stroke-linecap="round" />
+      <path d="M138 96 L154 116 L138 136" fill="none" stroke="#3b2a3f" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+
+    <g font-family="Sora, 'Helvetica Neue', Arial, sans-serif">
+      <text x="352" y="150" font-size="38" fill="#e3f64b" letter-spacing="-1">
+        <tspan font-weight="700">Bublio</tspan><tspan font-weight="300"> Labs</tspan>
+      </text>
+      <text x="348" y="250" font-size="86" font-weight="700" fill="#e3f64b" letter-spacing="-4">Built to be used.</text>
+      <text x="352" y="306" font-size="24" font-weight="300" fill="#ede7ef">Web apps, mobile apps and dashboards, designed, built and secured.</text>
+    </g>
+  </g>
+</svg>
