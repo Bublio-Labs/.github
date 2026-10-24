@@ -46,19 +46,45 @@ Quezon City, Philippines.
 
 ## Tools we use
 
+**Web and backend**
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-3b2a3f?style=for-the-badge&logo=react&logoColor=e3f64b" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-3b2a3f?style=for-the-badge&logo=nextdotjs&logoColor=e3f64b" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3b2a3f?style=for-the-badge&logo=typescript&logoColor=e3f64b" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-3b2a3f?style=for-the-badge&logo=tailwindcss&logoColor=e3f64b" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3b2a3f?style=for-the-badge&logo=nodedotjs&logoColor=e3f64b" />
+</p>
+
+**Mobile**
+
+<p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3b2a3f?style=for-the-badge&logo=flutter&logoColor=e3f64b" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-3b2a3f?style=for-the-badge&logo=swift&logoColor=e3f64b" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-3b2a3f?style=for-the-badge&logo=kotlin&logoColor=e3f64b" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3b2a3f?style=for-the-badge&logo=nodedotjs&logoColor=e3f64b" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3b2a3f?style=for-the-badge&logo=postgresql&logoColor=e3f64b" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-3b2a3f?style=for-the-badge&logo=xcode&logoColor=e3f64b" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3b2a3f?style=for-the-badge&logo=androidstudio&logoColor=e3f64b" />
+</p>
+
+**Cloud and data**
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-3b2a3f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2UzZjY0YiIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS40Mi04Ljk4QTYgNiAwIDAgMSAxNy42IDguNSA1IDUgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-3b2a3f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2UzZjY0YiIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS40Mi04Ljk4QTYgNiAwIDAgMSAxNy42IDguNSA1IDUgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-3b2a3f?style=for-the-badge&logo=googlecloud&logoColor=e3f64b" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-3b2a3f?style=for-the-badge&logo=firebase&logoColor=e3f64b" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3b2a3f?style=for-the-badge&logo=supabase&logoColor=e3f64b" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-3b2a3f?style=for-the-badge&logo=figma&logoColor=e3f64b" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3b2a3f?style=for-the-badge&logo=postgresql&logoColor=e3f64b" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-3b2a3f?style=for-the-badge&logo=vercel&logoColor=e3f64b" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-3b2a3f?style=for-the-badge&logo=docker&logoColor=e3f64b" />
+</p>
+
+**Design and workflow**
+
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-3b2a3f?style=for-the-badge&logo=figma&logoColor=e3f64b" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-3b2a3f?style=for-the-badge&logo=git&logoColor=e3f64b" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-3b2a3f?style=for-the-badge&logo=github&logoColor=e3f64b" />
 </p>
 
 ## Work with us
